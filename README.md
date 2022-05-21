@@ -7,6 +7,5 @@
 
 
 
-# 支持/赞赏!
-
+# 支持/赞赏
 <img width="313" alt="微信赞赏码" src="https://user-images.githubusercontent.com/22977780/169641789-54b11039-b654-45d5-b497-1a1250c9ed2c.jpg">
