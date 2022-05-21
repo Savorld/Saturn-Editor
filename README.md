@@ -9,4 +9,4 @@
 
 # 支持/赞赏!
 
-<img width="313" alt="微信赞赏码" src="https://user-images.githubusercontent.com/22977780/169629264-4ebe3e24-f5a4-4b46-bae5-11ebe8af8703.jpg">
+<img width="313" alt="微信赞赏码" src="https://user-images.githubusercontent.com/22977780/169641789-54b11039-b654-45d5-b497-1a1250c9ed2c.jpg">
