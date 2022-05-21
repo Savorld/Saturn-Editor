@@ -5,4 +5,4 @@
 
 
 # 支持/赞赏
-![微信赞赏码](https://user-images.githubusercontent.com/22977780/169629264-4ebe3e24-f5a4-4b46-bae5-11ebe8af8703.jpg)
+<img width="313" alt="微信赞赏码" src="https://user-images.githubusercontent.com/22977780/169629264-4ebe3e24-f5a4-4b46-bae5-11ebe8af8703.jpg">
