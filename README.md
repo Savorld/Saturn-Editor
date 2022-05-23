@@ -39,7 +39,11 @@
 这些是它的亮点，但不是痛点，口播类视频最枯燥、最磨人的环节是粗剪，是从3个小时的口误、忘词和静音片段中，找出零散的二十分钟保留片段，这一般会耗费我一个小时左右的时间。  
 而土星剪辑可以把这个时间缩短到十分钟左右。  
 
+## 二、使用方法
+https://zhuanlan.zhihu.com/p/516179444
 
+## 三、下载链接
+https://github.com/Savorld/-Saturn-Editor-/releases
 
 # 支持/赞赏
 <img width="313" alt="微信赞赏码" src="https://user-images.githubusercontent.com/22977780/169641789-54b11039-b654-45d5-b497-1a1250c9ed2c.jpg">
